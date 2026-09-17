@@ -3,4 +3,4 @@
 "Repo do exercicio 1.1 da disciplina Agentes e T�picos Avan�ados de IA." 
 "" 
 "## Sobre" 
-"Estudante da TD-2026-01." 
+"Estudante da IA-2026-01." 
