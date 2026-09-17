@@ -1,6 +1,6 @@
 "# Meu Primeiro Repositorio" 
 "" 
-"Repo do exercicio 1.1 da disciplina Agentes e T¢picos Avan‡ados de IA." 
+"Repo do exercicio 1.1 da disciplina Agentes e Tï¿½picos Avanï¿½ados de IA." 
 "" 
 "## Sobre" 
-"Estudante da TD-2025-02." 
+"Estudante da TD-2026-01." 
