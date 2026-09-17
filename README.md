@@ -1,0 +1,3 @@
+"# Meu Primeiro Repositorio" 
+"" 
+"Repo do exercicio 1.1 da disciplina Agentes e T¢picos Avan‡ados de IA." 
